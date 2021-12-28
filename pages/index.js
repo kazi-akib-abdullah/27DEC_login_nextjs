@@ -17,7 +17,7 @@ export default function Home() {
           backgroundRepeat="no-repeat"
           height="100vh"
         />
-        <Signup         
+        <Signup
           zIndex={1} />
 
 
